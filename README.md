@@ -1,4 +1,4 @@
-# American Sign Language Translator 🤟🧠
+# American Sign Language Translator 
 
 A real-time American Sign Language (ASL) translator desktop application built using Python, OpenCV, MediaPipe, TensorFlow (MobileNet), and Tkinter.
 
